@@ -5,9 +5,7 @@
   "description": "A short description of your package",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "anki-atom:toggle"
-  },
+  "activationHooks": ["core:loaded-shell-environment"],
   "repository": "https://github.com/atom/anki-atom",
   "license": "MIT",
   "engines": {
