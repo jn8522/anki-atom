@@ -1,5 +1,11 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "anki-atom:toggle"
+    "ctrl-alt-c": "anki-atom:cloze",
+		"ctrl-alt-e": "anki-atom:bold",
+		"ctrl-alt-u": "anki-atom:underline",
+		"ctrl-alt-i": "anki-atom:italics",
+		"ctrl-alt-q": "anki-atom:listItem",
+		"ctrl-alt-l": "anki-atom:bulletList",
+		"ctrl-alt-n": "anki-atom:numberedList"
   }
 }

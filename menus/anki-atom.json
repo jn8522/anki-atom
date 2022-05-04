@@ -15,8 +15,8 @@
           "label": "anki-atom",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "anki-atom:toggle"
+              "label": "Cloze",
+              "command": "anki-atom:cloze"
             }
           ]
         }
