@@ -6,6 +6,8 @@
 		"ctrl-alt-i": "anki-atom:italics",
 		"ctrl-alt-q": "anki-atom:listItem",
 		"ctrl-alt-l": "anki-atom:bulletList",
-		"ctrl-alt-n": "anki-atom:numberedList"
+		"ctrl-alt-n": "anki-atom:numberedList",
+		"ctrl-=": "anki-atom:superscript",
+		"ctrl--": "anki-atom:subscript"
   }
 }
