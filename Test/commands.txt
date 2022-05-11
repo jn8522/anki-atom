@@ -1,1 +1,0 @@
-select flds from notes
