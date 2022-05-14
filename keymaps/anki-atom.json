@@ -8,7 +8,6 @@
 		"ctrl-alt-l": "anki-atom:bulletList",
 		"ctrl-alt-n": "anki-atom:numberedList",
 		"ctrl-=": "anki-atom:superscript",
-		"ctrl--": "anki-atom:subscript",
-		"ctrl-alt-w": "anki-atom:newCard"
+		"ctrl--": "anki-atom:subscript"
   }
 }
