@@ -13,6 +13,10 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "anki-apkg": "0.0.4"
+    "better-sqlite3": "^7.5.1",
+    "sqlite3": "^5.0.8"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4"
   }
 }
